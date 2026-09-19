@@ -119,10 +119,6 @@ The backup script's PowerShell step returns these codes:
 | `Display backup directory not found` | Run the backup first, or copy your saved folder back to the expected path. |
 | The window closes too quickly | The scripts wait 5 seconds before closing. Run them from an open Command Prompt to keep the output on screen. |
 
-## Disclaimer
-
-These scripts install driver packages on your system. Use them at your own risk, and only restore drivers that you trust and that match your hardware. The authors are not responsible for any damage or data loss.
-
 ---
 
 ## ⚖️ Legal Disclaimer & Limitation of Liability
