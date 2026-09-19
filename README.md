@@ -122,3 +122,25 @@ The backup script's PowerShell step returns these codes:
 ## Disclaimer
 
 These scripts install driver packages on your system. Use them at your own risk, and only restore drivers that you trust and that match your hardware. The authors are not responsible for any damage or data loss.
+
+---
+
+## ⚖️ Legal Disclaimer & Limitation of Liability
+
+This project is licensed under the **Apache License, Version 2.0**. This disclaimer expressly supplements and reinforces **Section 7 (Disclaimer of Warranty)** and **Section 8 (Limitation of Liability)** of the Apache 2.0 License.
+
+**FOR EDUCATIONAL, RESEARCH, AND INFORMATIONAL PURPOSES ONLY.**
+
+### 1. "AS IS" & No Warranties
+To the fullest extent permitted by applicable law, this software, documentation, and all associated materials (collectively referred to as the "Software") are provided strictly on an **"AS IS"** and **"AS AVAILABLE"** basis, without warranties or conditions of any kind, whether express, implied, statutory, or otherwise. The author(s), contributor(s), and copyright holder(s) expressly disclaim all warranties, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, non-infringement, security, accuracy, operational uptime, or error-free execution.
+
+### 2. Limitation of Liability
+Under no circumstances and under no legal theory—whether in contract, tort (including negligence and gross negligence), strict liability, or otherwise—shall the author(s), maintainer(s), or contributor(s) be liable for any direct, indirect, incidental, special, exemplary, punitive, or consequential damages whatsoever (including, but not limited to, procurement of substitute goods or services, loss of use, loss of data, loss of profits, system crash, hardware failure, security incidents, business interruption, or personal/commercial loss) arising in any way out of the use, execution, modification, distribution, or inability to use this Software, even if expressly advised of the possibility of such damages.
+
+### 3. User Responsibility & Compliance
+- **Sole Risk:** Any deployment, installation, execution, or reliance upon this Software is undertaken entirely at your own discretion and sole risk.
+- **Legal Compliance:** You are exclusively responsible for ensuring that your usage of this Software complies with all applicable local, national, and international laws, regulations, and third-party terms of service.
+- **No Professional Advice:** Nothing contained within this repository constitutes legal, financial, cybersecurity, architectural, or professional advice.
+
+### 4. Indemnification
+By viewing, downloading, cloning, compiling, distributing, or utilizing any portion of this repository, you unconditionally and irrevocably agree to indemnify, defend, and hold harmless the author(s) and contributor(s) from and against any and all claims, demands, liabilities, damages, judgments, losses, costs, or expenses (including reasonable attorney fees and legal costs) resulting from your access, use, misuse, or violation of this disclaimer or applicable laws.
